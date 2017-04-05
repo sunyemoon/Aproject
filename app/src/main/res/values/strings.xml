@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">androidLecture</string>
+    <string name="insa"> Hello! </string>
+    <string name="KNU">Kunsan National University</string>
+
 </resources>
+
